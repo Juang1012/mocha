@@ -1,0 +1,20 @@
+{
+  "name": "mochachai-2",
+  "version": "1.0.0",
+  "description": "test whit mocha and chai",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "coha",
+    "chai",
+    "javascript"
+  ],
+  "author": "juan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
